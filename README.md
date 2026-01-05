@@ -21,7 +21,7 @@ Users can generate strong random passwords or choose their own preferences.
 
 ## 📸 Project Preview
 
-![Password Generator Demo](./assets/demo1.png)
+![Password Generator Demo](demo1.png)
 
 ---
 
