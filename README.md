@@ -3,6 +3,8 @@
 A simple, modern and secure password generator built with **HTML, CSS and JavaScript**.  
 Users can generate strong random passwords or choose their own preferences.
 
+🔗 Live Demo: https://imnayzinhaa.github.io/password-generator/
+
 ---
 
 ## ✨ Features
